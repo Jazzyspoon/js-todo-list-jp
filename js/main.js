@@ -1,4 +1,4 @@
-//still trying to understand this choice
+//still trying to understand this choice, will review tutorial with Max
 var data = localStorage.getItem("todoList")
   ? JSON.parse(localStorage.getItem("todoList"))
   : {
